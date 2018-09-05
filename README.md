@@ -1,0 +1,2 @@
+# NewNicoNicoNGCounter.exe
+ニコニコ動画のコメントの内容・NGスコア等をグリッドで閲覧できるようにするソフトウェア
